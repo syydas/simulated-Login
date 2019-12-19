@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.login-page {
+    margin: 100px auto;
+    height: 200px;
+    width: 300px;
+    border: 1px solid white;
+}
+
+.login-page h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.login-page input {
+    display: block;
+    height: 30px;
+    width: 100%;
+    margin: 10px 0;
+    padding: 5px;
+}
+
+.login-page button {
+    float: left;
+    height: 30px;
+    width: 60px;
+    font-size: 15px;
+}
